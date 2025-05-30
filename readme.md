@@ -25,3 +25,5 @@ git pull - fetch and integrate changes from the remote repository
 echo - print text to the terminal or write into a file
 
 touch - create an empty file
+
+mv - move or rename files or directories
