@@ -23,3 +23,5 @@ git push - upload local commits to the remote repository
 git pull - fetch and integrate changes from the remote repository
 
 echo - print text to the terminal or write into a file
+
+touch - create an empty file
