@@ -19,3 +19,5 @@ git add - stage changes for the next commit
 git commit - save staged changes with a message
 
 git push - upload local commits to the remote repository
+
+git pull - fetch and integrate changes from the remote repository
