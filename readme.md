@@ -29,3 +29,5 @@ touch - create an empty file
 mv - move or rename files or directories
 
 cat - display contents of a file
+
+grep - search for a pattern in files
